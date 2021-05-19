@@ -1,0 +1,49 @@
+html
+{
+background-image: url('galaxy.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+top: 0;
+bottom: 0;
+right:0;
+left: 0;
+}
+
+h1{
+    color:yellow;
+    text-align: center;
+    font-size: 4em;
+}
+
+#parent{
+    font-size:25px;
+    padding: 20px;
+    background-color: black;
+    background-repeat: no-repeat;
+ 
+    height: 1000px;
+    opacity: 60%;
+    color:white;
+    text-align: center;
+    text-size-adjust: 90px;
+    margin-bottom:70px ;
+}
+
+#hello{
+    float:left;
+    width:48%;
+    padding:3px;
+}
+
+p{
+    opacity:100%;
+}
+
+#fixed{
+    position:fixed;
+    bottom: 0px;
+    right:0;
+    height:180px;
+    width: 50%;
+
+}
